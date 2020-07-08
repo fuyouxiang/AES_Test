@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/bcprov-jdk14-1.65.jar lib/commons-codec-1.14.jar
+Main-Class: AES.AesTest
